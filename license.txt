@@ -1,0 +1,4 @@
+Copyright (c) 2020 Adafruit Industries
+
+thư viện này được tạo ra vào ngày 17/12/2024 với mục đích thử nghiệm nghiêm cứu các cách cập nhật phần mềm thông qua mạng không dây
+Create by TuiTenThai 

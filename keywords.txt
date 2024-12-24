@@ -1,0 +1,7 @@
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+ssid	KEYWORD2
+password	KEYWORD2
+username	KEYWORD2
